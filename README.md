@@ -1,0 +1,3 @@
+# <Task-Board>
+
+- I created a task board using HTML, CSS, JavaScript, and JQuery. I added a date picker functionality that allows you to add the date the task is due. While doing this I learned how to use JQuery, and I learned more about HTML, CSS and JavaScript. I wanted to create this project so that I could keep up with personal tasks and make sure that those tasks got completed and in a timely manner!
